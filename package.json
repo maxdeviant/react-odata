@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/maxdeviant/react-odata#readme",
   "dependencies": {
-    "invariant": "^2.2.1",
+    "invariant": "^2.2.1"
   },
   "peerDependencies": {
     "react": "^15.3.1"
